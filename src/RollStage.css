@@ -1,0 +1,15 @@
+.rollStage button {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15em;
+  padding: 1.5em;
+  border: 0px;
+  color: white;
+  border-radius: 10px;
+  background-color: black;
+}
+
+.rollStage button:hover {
+  background-color: darkslateblue;
+  cursor: pointer;
+}
